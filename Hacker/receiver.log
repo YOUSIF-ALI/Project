@@ -1,0 +1,6 @@
+2026-01-28 18:15:14,740 - INFO - === Receiver started ===
+2026-01-28 18:15:14,741 - INFO - Listening on 0.0.0.0:9001
+2026-01-28 18:15:36,162 - INFO - Connection received from ('192.168.232.1', 50287)
+2026-01-28 18:15:36,201 - INFO - File received successfully (1166362 bytes)
+2026-01-28 18:15:36,202 - INFO - Connection closed
+2026-01-28 18:15:36,203 - INFO - === Receiver finished ===
